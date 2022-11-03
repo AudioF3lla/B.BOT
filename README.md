@@ -1,0 +1,2 @@
+# B.BOT
+Binary bots
